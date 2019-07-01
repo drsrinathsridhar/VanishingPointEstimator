@@ -31,5 +31,5 @@ Version 2.0: For private use <br/>
 Version 3.0: Converted to a class and open sourced by Srinath <br/>
 
 Contact: srinaths@umich.edu <br/>
-WWW: umich.edu/~srinaths
+WWW: http://srinathsridhar.com
 
