@@ -14,10 +14,8 @@ Building
 ===============
 Requires OpenCV (2.1 and 2.2 tested). On linux systems please do the following
 
-$ tar -xzvf vanpoints.tar.gz
-$ cd vanpoints
-$ make
-$ ./findVanPoints threepp.jpg 10 500
+``make``
+``./findVanPoints threepp.jpg 10 500``
 
 Also tested on VS2008 on a Windows XP 64 bit machine. Please don't forget to add
 the OpenCV include paths and the OpenCV libraries to your project properties.
