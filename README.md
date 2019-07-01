@@ -26,11 +26,10 @@ Please email Srinath in case of problems.
 Revision History
 ==============================
 
-Version 1.0: Original written by Yu Xiang and Srinath Sridhar for the course
-						 EECS 442, Fall 2010 at the University of Michigan, Ann Arbor
-Version 2.0: For private use
-Version 3.0: Converted to a class and open sourced by Srinath
+Version 1.0: Original written by Yu Xiang and Srinath Sridhar for the course EECS 442, Fall 2010 at the University of Michigan, Ann Arbor <br/>
+Version 2.0: For private use <br/>
+Version 3.0: Converted to a class and open sourced by Srinath <br/>
 
-Contact: srinaths@umich.edu
+Contact: srinaths@umich.edu <br/>
 WWW: umich.edu/~srinaths
 
